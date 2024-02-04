@@ -1,0 +1,4 @@
+https://github.com/oschwartz10612/poppler-windows/releases/
+download release.zip file
+copy and paste Library and share folders in this path C:\Program Files (x86)\poppler
+these are the prerequisite needs to follow in order to get rid of pdf to image error
